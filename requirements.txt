@@ -1,0 +1,6 @@
+numpy==1.26.0
+streamlit==1.36.0
+opencv-python==4.10.0
+Pillow==10.2.0
+moviepy==1.0.3 
+pyserial==3.5  
